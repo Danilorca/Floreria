@@ -16,7 +16,7 @@
 
 .img_header{
   background-color: rgba(0, 0, 0, 0.762);
-  background-image: url(/img/pexel6.png);
+  background-image: url(../img/pexel6.png);
   width: 100%;
   height: 100vh;
   background-size: cover;
